@@ -47,7 +47,7 @@ Welcome to **DockSpace**! 🌊 This repository is my personal harbor of containe
    - **Goal:** Deploy a containerized Streamlit application on an AWS EC2 instance for seamless and scalable web app hosting.  
    - **Key Focus:** AWS networking, Docker containerization, cloud deployment, and security.
 
-**11. [Microservices Orchestration with Minikube & Kubernetes](https://github.com/vidhi-jaju/DockSpace/tree/95d3e334c2832a0b3247dbbc5da197d8b6633101/11.Microservices%20Orchestration%20with%20Minikube%20and%20Kubernetes) ☸️**  
+**11. [Microservices Orchestration with Minikube & Kubernetes](https://github.com/KavyaChugh/Docker_Experiments/tree/main/11.%20Microservices%20Orchestration%20with%20Minikube%20%26%20Kubernetes) ☸️**  
    - **Goal:** Deploy and manage microservices efficiently using Kubernetes and Minikube.  
    - **Key Focus:** Service discovery, load balancing, and containerized microservices deployment.  
 
